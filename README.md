@@ -8,8 +8,8 @@ cd Unet_Polyp_Implement
 ~~~
 
 ~~~
-conda create -n UnetImplementTest python=3.10
-conda activate UnetImplementTest
+conda create -n FashionVAEGAN python=3.10
+conda activate FashionVAEGAN
 pip install -r requirements.txt
 ~~~
 
